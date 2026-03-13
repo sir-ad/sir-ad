@@ -26,7 +26,7 @@ that shift is what i like exploring
 - [**mindkit**](https://github.com/sir-ad/mindkit) — capability layer for multi agent systems
 - [**grain**](https://github.com/sir-ad/grain) — interaction layer for ai interfaces
 - [**cipher.sys**](https://github.com/sir-ad/cipher.sys) — self destructing to do app
-- [**knight**](https://github.com/sir-ad/knight) — privacy first chrome extension
+- [**knight**](https://github.com/sir-ad/knight) — privacy first chrome extension for local resume parsing
 
 ## elsewhere
 
