@@ -27,6 +27,8 @@ that shift is what i like exploring
 - [**grain**](https://github.com/sir-ad/grain) — interaction layer for ai interfaces
 - [**cipher.sys**](https://github.com/sir-ad/cipher.sys) — self destructing to do app
 - [**knight**](https://github.com/sir-ad/knight) — privacy first chrome extension for local resume parsing
+- [**phantom knowledge layer**](https://github.com/sir-ad/phantom-knowledge) — pkl - vector embeddings, rag, & connectors for phantom pm os
+
 
 ## elsewhere
 
