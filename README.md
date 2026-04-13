@@ -21,8 +21,8 @@ that shift is what i like exploring
 - what makes ai useful inside real workflows
 
 ## things i tinker with
-
-- [**nexus prime**](https://github.com/sir-ad/nexus-prime) — local first control plane for coding agents
+- [**nxl**](nexus-prime./nxl) —NXL is a programming language that reduces LLM token consumption by 70% while maintaining full semantic equivalence
+- [**nexus prime**](nexus-prime.cfd) — local first control plane for coding agents
 - [**mindkit**](https://github.com/sir-ad/mindkit) — capability layer for multi agent systems
 - [**grain**](https://github.com/sir-ad/grain) — interaction layer for ai interfaces
 - [**cipher.sys**](https://github.com/sir-ad/cipher.sys) — self destructing to do app
