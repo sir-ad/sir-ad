@@ -21,8 +21,9 @@ that shift is what i like exploring
 - what makes ai useful inside real workflows
 
 ## things i tinker with
+- [**tetris.codes**](https://github.com/sir-ad/tetris.codes) - a small program between your coding agent and the model. context shrinks on your laptop — six to eight times fewer tokens leave it  **(tetris.codes)**
 - [**nxl**](https://github.com/sir-ad/nxl) — programming language that reduces LLM token consumption by 70% while maintaining full semantic equivalence
-- [**nexus prime**](nexus-prime.cfd) — local first control plane for coding agents
+- [**nexus prime**](https://github.com/sir-ad/nexus-prime) — local first control plane for coding agents **(nexus-prime.cfd)**
 - [**mindkit**](https://github.com/sir-ad/mindkit) — capability layer for multi agent systems
 - [**grain**](https://github.com/sir-ad/grain) — interaction layer for ai interfaces
 - [**cipher.sys**](https://github.com/sir-ad/cipher.sys) — self destructing to do app
